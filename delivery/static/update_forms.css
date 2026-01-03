@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(135deg, #42275a, #734b6d);
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+
+form {
+    width: 450px;
+    margin: 60px auto;
+    background: rgba(255,255,255,0.08);
+    padding: 35px;
+    border-radius: 18px;
+}
+
+button {
+    background: linear-gradient(90deg, #f7971e, #ffd200);
+    border: none;
+    padding: 12px;
+    width: 100%;
+    border-radius: 10px;
+}

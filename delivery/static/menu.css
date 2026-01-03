@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(135deg, #232526, #414345);
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+
+a {
+    color: #f5d76e;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+th {
+    background: #2b1055;
+}
+
+img {
+    width: 90px;
+    border-radius: 10px;
+}

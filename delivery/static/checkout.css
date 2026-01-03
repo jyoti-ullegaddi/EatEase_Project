@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    font-family: "Poppins", sans-serif;
+    color: white;
+    padding: 40px;
+}
+
+table {
+    width: 60%;
+    margin: auto;
+    background: rgba(255,255,255,0.08);
+    border-radius: 12px;
+}
+
+th, td {
+    padding: 14px;
+}
+
+button {
+    display: block;
+    margin: 30px auto;
+    padding: 14px 40px;
+    border-radius: 30px;
+    background: linear-gradient(135deg, #ffb347, #ffcc33);
+    border: none;
+    font-size: 16px;
+}
